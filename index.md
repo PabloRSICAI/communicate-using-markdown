@@ -14,3 +14,24 @@
 We're gonna include an image:
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+We're gonna include text code:
+
+Bash:
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+Java:
+``` javascript
+var myVar = "Hello, world!";
+```
+
+Python:
+``` python
+print("Hello, world!")
+```
+
+
