@@ -43,3 +43,36 @@ We're gonna include task list:
 
 
 
+We're gonna include notes:
+
+> **Note:** Recuerda guardar tu trabajo con frecuencia.
+
+
+We're gonna include cool notes:
+
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
+
+
+> 💡 **Tip:** iA Writer proporciona plantillas para previsualizar, imprimir y exportar documentos formateados en Markdown.
+
+
+
+<div style="background-color: #e8f5e9; border-left: 6px solid #4caf50; padding: 10px; border-radius: 4px; margin-bottom: 10px;">
+<strong>💡 Tip:</strong> iA Writer proporciona plantillas para previsualizar, imprimir y exportar documentos formateados en Markdown.
+</div>
+
